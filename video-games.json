@@ -1,0 +1,24 @@
+[
+  {
+    "id": "halo-combat-evolved-xbox-2003",
+    "title": "Halo",
+    "genre": "Sci-Fi",
+    "type": "FPS",
+    "cover_art": "https://halo.wiki.gallery/images/6/6a/Halo_Combat_Evolved_cover.png"
+  },
+  {
+    "id": "call-of-duty-1-pc-2003",
+    "title": "Call of Duty",
+    "genre": "Shooter",
+    "type": "FPS",
+    "cover_art": ""
+  },
+  {
+    "id": "mass-effect-1-xbox-2005",
+    "title": "Mass Effect",
+    "genre": "Sci-Fi",
+    "type": "RPG",
+    "cover_art": ""
+  }
+]
+  
